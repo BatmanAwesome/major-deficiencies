@@ -1,0 +1,11 @@
+# Core
+numpy
+pandas
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Development / notebooks
+jupyter
